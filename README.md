@@ -7,3 +7,5 @@
 </p>
 <hr>
 <p>Loyihaga start berish uchun localhost: 5500 kodi kerak bo'ladi!</p>
+<hr>
+
